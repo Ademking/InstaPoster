@@ -1,4 +1,4 @@
-# InstaPoster
+# InstaPoster 🖼
 <p align="center">
   <img src="https://i.imgur.com/CTDSeYM.png">
 </p>
