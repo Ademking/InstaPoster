@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/CTDSeYM.png">
 </p>
 
-Instagram Auto-Posting BOT - Post Automatically to instagram
+Instagram Auto-Posting BOT - Post Automatically to instagram (Every X minutes)
 
 ## Installation
 
