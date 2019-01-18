@@ -15,5 +15,5 @@ $username = 'INSTAGRAM_USERNAME';
 $password = 'INSTAGRAM_PASSWORD';
 
 $image_description = 'Your Description Here ...'; 
-$img_url = 'https://picsum.photos/700/?random';
+$imgurl = 'https://picsum.photos/700/?random';
 $photoFilename = "img/rand.jpg";
