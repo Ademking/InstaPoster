@@ -1,5 +1,5 @@
 {
     "require": {
-        "mgp25/instagram-php": "^3.1"
+        "mgp25/instagram-php"
     }
 }
